@@ -1,4 +1,4 @@
-This is a git dmo3
+This is a git demo
 
 This demo is fun
 lets make another commit
